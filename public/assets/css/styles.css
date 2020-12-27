@@ -101,18 +101,28 @@ h1, h2, h3, h4, h5, h6 {
 .inner-page{
     background: #006bdf;
 }
+.rounded-img{
+     border-radius: 50%;
+}
+.fit-img{
+     max-width: 100%;
+}
 footer{
 	color:#bdbdbd;
 }
 footer a{
 	color: #fff;
 }
+footer a:hover{
+	color: #fff !important;
+}
 .btn-outline-dark {
     color: #6f7173;
     border-color: #b8b8b8;
 }
 a.active span{
-	color: #3367d6 !important;
+    text-decoration: underline !important;
+    color: #fff;
 }
 .logo{
   color: #222;

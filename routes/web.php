@@ -21,6 +21,7 @@ use App\Http\Middleware\SetLocaleMiddleware;
 Route::get('/locale/{locale}', [HomeController::class, 'setlocale'])->name('setlocale');
 Route::middleware([SetLocaleMiddleware::class])->group(function () {
    Route::get('/', [HomeController::class, 'home'])->name('home');
+   Route::get('/about', [HomeController::class, 'about'])->name('aboutme');
 });
 
 

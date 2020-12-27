@@ -5,8 +5,8 @@
                 <div class="nav-top-contact">
                     <!-- Social links -->
                     <ul class="list-inline text-center text-md-left mb-0">
-                        <li class="list-inline-item mx-2" ><i class="fa fa-phone"></i> (+49) 0173 / 9051094 </li>
-                        <li class="list-inline-item mx-2" ><i class="fa fa-envelope" aria-hidden="true"></i> pksytem.uni@gmail.com</li>
+                        <li class="list-inline-item mx-2" ><i class="fa fa-phone"></i> (+49)0163 / 3934930 </li>
+                        <li class="list-inline-item mx-2" ><i class="fa fa-envelope" aria-hidden="true"></i> pvsytem.de@gmail.com</li>
                     </ul>
                 </div>
             </div>

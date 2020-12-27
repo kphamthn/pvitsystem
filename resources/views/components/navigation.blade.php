@@ -20,12 +20,12 @@
             <!--Note: declare the Menu style in the data-menu-style="horizontal" (options: horizontal, vertical, accordion) -->
             <ul id="respMenu" class="ace-responsive-menu" data-menu-style="horizontal">
                 <li>
-                    <a href="index.html" class="active"> 
+                    <a href="{{ route('home') }}" @if(Route::current()->getName() == 'home') class="active" @endif> 
                         <span class="title">Startseite</span>
                     </a>
                 </li>
                 <li>
-                    <a href="about.html"> 
+                    <a href="{{ route('aboutme') }}" @if(Route::current()->getName() == 'aboutme') class="active" @endif> 
                         <span class="title">{{ __('home.aboutus') }}</span>
                     </a>
                 </li>
