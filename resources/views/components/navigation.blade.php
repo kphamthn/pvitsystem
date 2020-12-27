@@ -21,7 +21,7 @@
             <ul id="respMenu" class="ace-responsive-menu" data-menu-style="horizontal">
                 <li>
                     <a href="{{ route('home') }}" @if(Route::current()->getName() == 'home') class="active" @endif> 
-                        <span class="title">Startseite</span>
+                        <span class="title">{{ __('home.homepage') }}</span>
                     </a>
                 </li>
                 <li>
@@ -32,7 +32,7 @@
                
                 <li>
                     <a href="services.html"> 
-                        <span class="title">{{ __('home.portfolio') }}</span>
+                        <span class="title">{{ __('home.production') }}</span>
                     </a>
                 </li>
                 <li class="last ">

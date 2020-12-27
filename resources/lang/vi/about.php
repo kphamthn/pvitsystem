@@ -9,5 +9,6 @@ Trong khi có rất nhiều hệ thống có sẵn mà quý vị có thể mua v
 <br><br>
 Phuong Vu Systeme phát triển những hệ thống được thiết kế riêng cho quý vị - quý vị chỉ phải chi trả cho những tính năng quý vị thực sự cần - và có thể mở rộng thêm các tính năng mới bất cứ khi nào quý vị thấy cần thiết. Hãy liên hệ với tôi để có thêm thông tin!
 <br><br>
-Quý vị có thể tìm hiểu về những hệ thống mà Phuong Vu Systeme có thể phát triển <a href="product">ở đây</a>.'
+Quý vị có thể tìm hiểu về những hệ thống mà Phuong Vu Systeme có thể phát triển <a href="product">ở đây</a>.',
+     'about_title' => 'Vài lời giới thiệu'
 ];
