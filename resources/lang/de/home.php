@@ -22,8 +22,9 @@ return [
     'other_systems_descr' => 'Ich kann mobile Apps, Kassiersystem usw. sowie andere Systeme nach Ihren Bedürfnissen entwickeln. Bitte zögern Sie nicht, Kontakt aufzunehmen.',
     'customers_say' => 'Was sagen meine Kunden?',
     'site_links' => 'Seitenstruktur',
-    'reach_us' => 'Mich erreichen',
+    'reach_us' => 'Impressum',
     'follow_us' => 'Mich folgen',
     'main_descr' => 'Mit der Explosion der Informationstechnologien werden Definitionen wie Online-Marketing, Online-Shopping, Websites, SEO, Shopping-App usw. selbst für Standardkunden immer regelmäßiger. Heutzutage hat jeder ein Smartphone, einen Laptop, einen PC und kann auf die ganze Welt zugreifen, ohne dass er nach draußen gehen muss. Wie können Sie solche Kunden in Zukunft effektiver erreichen? IT-System ist die Antwort!',
-    'about_title' => 'Über mich'
+    'about_title' => 'Über mich',
+    'owner' => 'Inhaber'
     ];

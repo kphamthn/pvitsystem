@@ -24,6 +24,7 @@ return [
     'site_links' => 'Các trang',
     'reach_us' => 'Thông tin về tôi',
     'follow_us' => 'Theo dõi tôi qua',
-    'main_descr' => 'Với sự bùng nổ của công nghệ thông tin sự ứng dụng các sản phẩm công nghệ như Tiếp thị trực tuyến - Online Marketing, Bán hàng trực tuyến - Online Shopping, trang Web hoặc Tối ưu hóa công cụ tìm kiếm - SEO và các Ứng dụng mua sắm - Shopping Apps, đã trở nên phổ biến ở mức cơ bản. Bởi ngày nay mỗi người đều sở hữu riêng cho mình Điện thoại thông minh, Máy tính xách tay hoặc Máy tính để bàn, việc nắm bắt thông tin cho bất kì sản phẩm nào hoặc đánh giá về chất lượng sản phẩm được thực hiện mọi lúc mọi nơi. Để tiếp cận được khách hàng hiệu quả hơn trong thời đại công nghệ ngày nay, xin hãy nhấc máy liên hệ với chúng tôi để có những giải pháp thích hợp.'
+    'main_descr' => 'Với sự bùng nổ của công nghệ thông tin sự ứng dụng các sản phẩm công nghệ như Tiếp thị trực tuyến - Online Marketing, Bán hàng trực tuyến - Online Shopping, trang Web hoặc Tối ưu hóa công cụ tìm kiếm - SEO và các Ứng dụng mua sắm - Shopping Apps, đã trở nên phổ biến ở mức cơ bản. Bởi ngày nay mỗi người đều sở hữu riêng cho mình Điện thoại thông minh, Máy tính xách tay hoặc Máy tính để bàn, việc nắm bắt thông tin cho bất kì sản phẩm nào hoặc đánh giá về chất lượng sản phẩm được thực hiện mọi lúc mọi nơi. Để tiếp cận được khách hàng hiệu quả hơn trong thời đại công nghệ ngày nay, xin hãy nhấc máy liên hệ với chúng tôi để có những giải pháp thích hợp.',
+    'owner' => 'Chủ sở hữu'
    
 ];  

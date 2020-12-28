@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\ContactController;
 use App\Http\Middleware\SetLocaleMiddleware;
 
 /*
@@ -22,6 +23,9 @@ Route::get('/locale/{locale}', [HomeController::class, 'setlocale'])->name('setl
 Route::middleware([SetLocaleMiddleware::class])->group(function () {
    Route::get('/', [HomeController::class, 'home'])->name('home');
    Route::get('/about', [HomeController::class, 'about'])->name('aboutme');
+   Route::get('/product', [HomeController::class, 'service'])->name('service');
+   Route::get('/contact', [ContactController::class, 'index'])->name('contact');
+   Route::post('/contact', [ContactController::class, 'post'])->name('post_contact');
 });
 
 

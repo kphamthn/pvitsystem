@@ -19,6 +19,7 @@
         <link href="{{ asset('assets/vendors/aos/aos.css') }}" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/theme.css') }}">
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/styles.css') }}">
+        <link rel="icon" type="image/png" href="{{ asset('img/favicon.png') }}" />
 
     </head>  
     <body>

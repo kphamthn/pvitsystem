@@ -4,13 +4,18 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/xampp/htdocs/pvitsystem/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/pvitsystem/resources/views/services.blade.php</file>
             <file>file:/C:/xampp/htdocs/pvitsystem/resources/lang/de/home.php</file>
             <file>file:/C:/xampp/htdocs/pvitsystem/resources/views/components/navigation.blade.php</file>
-            <file>file:/C:/xampp/htdocs/pvitsystem/resources/lang/vi/home.php</file>
-            <file>file:/C:/xampp/htdocs/pvitsystem/resources/views/layouts/web.blade.php</file>
-            <file>file:/C:/xampp/htdocs/pvitsystem/resources/views/components/footer.blade.php</file>
-            <file>file:/C:/xampp/htdocs/pvitsystem/resources/views/components/top-menu.blade.php</file>
+            <file>file:/C:/xampp/htdocs/pvitsystem/resources/lang/vi/service.php</file>
+            <file>file:/C:/xampp/htdocs/pvitsystem/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/pvitsystem/resources/lang/de/service.php</file>
             <file>file:/C:/xampp/htdocs/pvitsystem/resources/views/home.blade.php</file>
+            <file>file:/C:/xampp/htdocs/pvitsystem/resources/lang/vi/home.php</file>
+            <file>file:/C:/xampp/htdocs/pvitsystem/resources/lang/vi/about.php</file>
+            <file>file:/C:/xampp/htdocs/pvitsystem/resources/lang/de/about.php</file>
+            <file>file:/C:/xampp/htdocs/pvitsystem/resources/views/about.blade.php</file>
+            <file>file:/C:/xampp/htdocs/pvitsystem/public/assets/css/styles.css</file>
         </group>
     </open-files>
 </project-private>

@@ -1,7 +1,7 @@
 <header class="main-header"> 
     <div class="container">
         <div class="logo">
-            <a href="index.html">
+            <a href="{{ route('home')}}">
                 <h2>Phuong Vu Systeme</h2>
             </a>
         </div> 
@@ -31,12 +31,12 @@
                 </li>
                
                 <li>
-                    <a href="services.html"> 
+                    <a href="{{ route('service') }}" @if(Route::current()->getName() == 'service') class="active" @endif> 
                         <span class="title">{{ __('home.production') }}</span>
                     </a>
                 </li>
                 <li class="last ">
-                    <a href="contact.html"> 
+                    <a href="{{ route('contact') }}" @if(Route::current()->getName() == 'contact') class="active" @endif> 
                         <span class="title">{{ __('home.contact') }}</span>
                     </a>
                 </li>
