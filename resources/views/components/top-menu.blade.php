@@ -41,6 +41,9 @@
                     <li class="list-inline-item mx-2" data-toggle="tooltip" data-placement="top" title="Deutsch">
                         <a href='{{ route('setlocale', ['locale'=>'de'])}}'><img src='{{ asset('img/de.svg') }}' width="20"></a>
                     </li>
+                    <li class="list-inline-item mx-2" data-toggle="tooltip" data-placement="top" title="English">
+                        <a href='{{ route('setlocale', ['locale'=>'en'])}}'><img src='{{ asset('img/en.svg') }}' width="20"></a>
+                    </li>
                 </ul>
             </div>
         </div>

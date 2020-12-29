@@ -8,7 +8,7 @@ return [
     'production'=> 'Services',
     'contact' => 'Kontakt',
     'impressum'=>'Impressum',
-    'page_title' => 'OPTIMIEREN SIE IHR LADEN',
+    'page_title' => 'OPTIMIEREN SIE IHR LADEN MIT PHUONG VU SYSTEME',
     'page_short_descr' => 'Von einfacher Webseiten bis hin zu E-Commerce-Systemen erstelle ich maßgeschneiderte Software für Sie.',
     'more_about_me' => 'Mehr über mich',
     'welcome' => 'Willkommen bei Phuong Vu Systeme',

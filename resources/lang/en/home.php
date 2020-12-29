@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'homepage'=>'Home',
+    'language'=>'Language',
+    'aboutus' => 'About me',
+    'portfolio' => 'My portfolio',
+    'production'=> 'Services',
+    'contact' => 'Contact',
+    'impressum'=>'Impressum',
+    'page_title' => 'Optimize your shop with Phuong Vu Systeme',
+    'page_short_descr' => 'From simple websites to large E-Commerce systems, I can build tailor made softwares for you',
+    'more_about_me' => 'More about me',
+    'welcome' => 'Welcome to Phuong Vu Systeme',
+    'my_services' => 'My services',
+    'my_services_descr' => 'An overview about my services',
+    'websites' => 'Websites',
+    'webseite_descr' => 'Nowadays, with the explosion of Google und smartphones, websites are becomming the faces of business. I can develop optimized, fully functional websites with all SEO standards for your business.',
+    'e_commerce' => 'E-Commerce systems',
+    'e_commerce_descr' => 'Online shopping is becoming the trend. Do you want to build a new online shop to have a new distribution channel? Please do not hesitate to contact me.',
+    'other_systems' => 'Other systems',
+    'other_systems_descr' => 'I can develop mobile apps, cashier system as well as other management systems for your business. Please contact if you are interested.',
+    'customers_say' => 'What do my customers say?',
+    'site_links' => 'Site structure',
+    'reach_us' => 'Impressum',
+    'follow_us' => 'Follow me',
+    'main_descr' => 'As information technologies explode, definitions such as Online-Marketing, Online-Shopping, Websites, SEO, Shopping-App are becoming more and more familiar, even to standard customers. Nowadays, everyone has a smartphone, a laptop or a PC and can access to the whole world without even having to go outside. How can we approach such customers in the future? IT system is the answer!',
+    'about_title' => 'About me',
+    'owner' => 'Owner'
+    ];

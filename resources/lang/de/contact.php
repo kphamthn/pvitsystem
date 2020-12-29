@@ -6,7 +6,7 @@ return[
     'first_name' => 'Vorname',
     'last_name' => 'Nachname',
     'email' => 'Email-Adresse',
-    'phone' => 'Kontaktnummer',
+    'phone' => 'Telefon',
     'address' => 'Addresse (Straße, PLZ, Land)',
     'address_short' => 'Addresse',
     'message' => 'Ihre Nachricht',
@@ -18,5 +18,5 @@ return[
     'email_msg' => 'Bitte geben Sie Ihre Email-Adresse ein',
     'email_format_msg' => 'Ihre Email-Adresse muss das Format abc@domain.de haben',
     'message_msg' => 'Bitte geben Sie Ihre Nachricht ein',
-    'success' => 'Ihre Nachricht wurde erfolgreich gesendet. Wir werden uns so schnell wie möglich bei Ihnen melden.'
+    'success' => 'Ihre Nachricht wurde erfolgreich gesendet. Ich werde mich so schnell wie möglich bei Ihnen melden.'
 ];

@@ -10,5 +10,5 @@ Während es bereits eine große Anzahl von IT-Anwendungen gab, die Sie kaufen k�
 Ich biete Systeme an, die auf die spezifischen Anforderungen Ihres Unternehmens zugeschnitten sind - damit müssen Sie nur für die Funktionen bezahlen, die Sie am meisten benötigen - und die jederzeit in Zukunft erweitert werden können. Bitte kontaktieren Sie mich für weitere Informationen!
 <br><br>
 <a href="product">Hier</a> können Sie einen Überblick darüber verschaffen, was ich anbieten kann.',
-    'about_title' => 'Über mich'
+    'about_title' => 'Wer bin ich'
 ];

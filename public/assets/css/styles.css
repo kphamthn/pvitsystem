@@ -10,7 +10,7 @@ License: https://webthemez.com/license
 @import url('https://fonts.googleapis.com/css?family=Archivo+Black&display=swap'); 
 
 h1, h2{
-	font-family: 'Archivo Black', sans-serif;
+	font-family: sans-serif;
 	font-weight:bolder;
 	color: #3367d6;
 }
