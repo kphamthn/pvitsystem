@@ -35,7 +35,7 @@
                     <li class="list-inline-item mx-2" style='margin-left: 20px;'>
                        {{ __('home.language') }}
                     </li>
-                    <li class="list-inline-item mx-2" data-toggle="tooltip" data-placement="top" title="Vietnamese">
+                    <li class="list-inline-item mx-2" data-toggle="tooltip" data-placement="top" title="Tiếng Việt">
                         <a href='{{ route('setlocale', ['locale'=>'vi'])}}'><img src='{{ asset('img/vi.svg') }}' width="20"></a>
                     </li>
                     <li class="list-inline-item mx-2" data-toggle="tooltip" data-placement="top" title="Deutsch">

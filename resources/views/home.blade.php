@@ -10,7 +10,7 @@
                     </h1>
                     <p class="mb-4 h5 white-text">{{ __('home.page_short_descr') }}</p> 
                     <div class=" mb-0">
-                        <a href="#" class="btn btn-pill btn-primary mr-3 mb-md-0 mb-3">
+                        <a href="{{ route('aboutme') }}" class="btn btn-pill btn-primary mr-3 mb-md-0 mb-3">
                             {{ __('home.more_about_me') }}
                         </a>
                     </div>

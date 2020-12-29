@@ -6,7 +6,7 @@ return [
     'aboutus' => 'Über mich',
     'portfolio' => 'Mein Portfolio',
     'production'=> 'Services',
-    'contact' => 'Kontaktieren',
+    'contact' => 'Kontakt',
     'impressum'=>'Impressum',
     'page_title' => 'OPTIMIEREN SIE IHR LADEN',
     'page_short_descr' => 'Von einfacher Webseiten bis hin zu E-Commerce-Systemen erstelle ich maßgeschneiderte Software für Sie.',
